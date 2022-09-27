@@ -1,7 +1,7 @@
 ### `Shell, Basics` :dart:
 
 * Navigation 
-* looking aroud
+* looking around
 * Manipulating fils
 * Item 2b
 * Common shortcuts for Bash
