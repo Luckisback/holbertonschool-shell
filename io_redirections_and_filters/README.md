@@ -42,7 +42,7 @@ You are expected to be able to explain to anyone, without the help of Google.
 #### `Info`
 
 __*Pour l'instant je vous partage ici mon profil Linkedin en attendant de futur projet Devops*__ 
-[*Mon profil Linkedin*](https://markdownlivepreview.com/). :earth_africa:
+[*Mon profil Linkedin*](https://www.linkedin.com/feed/). :earth_africa:
 
 
 #    :spider_web: :spider_web: :spider_web:
