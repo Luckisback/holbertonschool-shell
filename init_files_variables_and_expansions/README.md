@@ -22,9 +22,8 @@ You are expected to be able to explain to anyone, without the help of Google.
 3. How to create, update and delete shell variables                            
 4. What are the roles of the following reserved variables: HOME, PATH, PS1
 5. The first line of all your files should be exactly `#!/bin/bash
-6. What are the roles of the following reserved variables: HOME, PATH, PS1 
-7. What are special parameters                                         
-8. What is the special parameter $??                                  
+6. What are special parameters                                         
+7. What is the special parameter $??                                  
                                                                                                                                                 
 ```                                                                                                                       
 #### `Info`                                                                                                                                                
