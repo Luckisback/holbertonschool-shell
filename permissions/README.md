@@ -11,7 +11,7 @@
 You are expected to be able to explain to anyone, without the help of Google.
 
 |:                  Commands used in this session                     :|
-| ---------- |:-------------:|:---------------:|----------------------:|
+|:----------:|:-------------:|:---------------:|:---------------------:|
 | chmod      | chown         | groups	        | useradd               |
 | sudo       | chgrp         | whoami          | addgroup              |
 | su         | id            | adduser         |                       |
