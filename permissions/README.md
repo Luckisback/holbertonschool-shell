@@ -12,7 +12,7 @@ You are expected to be able to explain to anyone, without the help of Google.
 
 |:                  Commands used in this session                     :|
 | ---------- |:-------------:|:---------------:|----------------------:|
-| chmod      | chown         | groups	       | useradd               |
+| chmod      | chown         | groups	        | useradd               |
 | sudo       | chgrp         | whoami          | addgroup              |
 | su         | id            | adduser         |                       |
 |            |               |                 |                       |
@@ -30,12 +30,11 @@ You are expected to be able to explain to anyone, without the help of Google.
 9. All your scripts must be executable. To make your file executable, use the chmod command: `chmod u+x file.`  
    Later, we’ll learn more about how to utilize this command.
    
-```
    
 #### `Info`
 
 __*Pour l'instant je vous partage ici mon profil Linkedin en attendant de futur projet Devops*__ 
-[*Mon profil Linkedin*](https://markdownlivepreview.com/). :earth_africa:
+[*Mon profil Linkedin*](https://www.linkedin.com/feed/). :earth_africa:
 
-```
+
 #    :spider_web: :spider_web: :spider_web:
