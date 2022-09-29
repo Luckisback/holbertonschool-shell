@@ -11,7 +11,7 @@
 You are expected to be able to explain to anyone, without the help of Google.                                                                   
                                                                                                                                                 
 |  Working with commands |                                                                        
-| :---------------------:|                                                                        
+| :----------:----------:|                                                                        
 | set        | unset     |                                                                        
 | export     | alias     |                                                                       
 | .          | unalias   |                                                                        
