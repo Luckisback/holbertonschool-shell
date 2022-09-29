@@ -37,12 +37,12 @@ You are expected to be able to explain to anyone, without the help of Google.
 9. All your files must be executable
 10. You are not allowed to use `sed or awk`
    
-```
+
    
 #### `Info`
 
 __*Pour l'instant je vous partage ici mon profil Linkedin en attendant de futur projet Devops*__ 
 [*Mon profil Linkedin*](https://markdownlivepreview.com/). :earth_africa:
 
-```
+
 #    :spider_web: :spider_web: :spider_web:
